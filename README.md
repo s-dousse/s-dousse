@@ -39,11 +39,12 @@ I'd love it when a client would trust me to create something special for their p
 As a team player, I know that everyone is happy with their part and have a good overview of the project. I believe there is no concern too small for a quick catch up. At Makers, we learnt to run stand-up and retrospectives and develop an agile workflow. This helped our communication within the team and helped us reach our 'stretched goals' tasks in the end.
 
 <br />
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=s-dousse&show_icons=true&title_color=3c8e7e&text_color=7cd1b8&locale=en" alt="s-dousse" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dousse&show_icons=true&title_color=3c8e7e&text_color=7cd1b8&locale=en&layout=compact" alt="s-dousse" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dousse&show_icons=true&title_color=3c8e7e&text_color=7cd1b8&locale=en&layout=compact" alt="s-dousse" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-dousse&show_icons=true&title_color=3c8e7e&text_color=7cd1b8&locale=en" alt="s-dousse" width="400" />
+</div>
 
+<div>
 <h5 align="left">Programming Languages:</h5>
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/>
@@ -91,6 +92,7 @@ As a team player, I know that everyone is happy with their part and have a good 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
 </p>
+</div>
 
 <h3 align="left">Get in touch:</h3>
 
