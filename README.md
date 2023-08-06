@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah 👋
 
-I'm a junior software developer and creative thinker, opening communication through my newly acquired coding skills. I code to connect with people, and I'm looking for impactful projects where my artistic mind and desire to learn can make a difference.
+I'm a software engineer and creative thinker, opening communication through my coding skills. I code to connect with people, and I'm looking for impactful projects where my artistic mind and desire to learn can make a difference.
 
 I have eight years of work experience as an Illustrator / Art director (in-house and freelance). Through this and my education at Makers, I have carved out a few skills that will help start my career in software development. 👉 [My CV](https://github.com/s-dousse/CV)
 
