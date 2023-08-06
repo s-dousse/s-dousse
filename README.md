@@ -7,8 +7,8 @@ I have eight years of work experience as an Illustrator / Art director (in-house
 About me :
 
 - 👩‍🎓 Hybrid Bootcamp: Nov'21 cohort [Makers Academy](/https://makers.tech/)
-- 📚 Self-learner & autonomous worker
-- 🌱 Currently learning: Ruby/Rails, Golang and Python
+- 📚 Self-learner & autonomous worker: [Codecademy](https://www.codecademy.com/profiles/s-dousse) - [Exercism](https://exercism.org/profiles/s-dousse)
+- 🌱 Currently learning: Java, Go
 - 💚 People, Diagramming and that 'all tests passing' message
 - 🏂 Snowboard enthusiast, mindful dog-sitter, occasional gamer
 
